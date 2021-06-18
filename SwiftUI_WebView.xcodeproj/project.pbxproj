@@ -13,6 +13,7 @@
 		862F6AA5267C82E600C17C2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 862F6AA4267C82E600C17C2B /* Assets.xcassets */; };
 		862F6AA8267C82E600C17C2B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 862F6AA7267C82E600C17C2B /* Preview Assets.xcassets */; };
 		862F6AAB267C82E600C17C2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 862F6AA9267C82E600C17C2B /* LaunchScreen.storyboard */; };
+		862F6AB4267C83F100C17C2B /* MywebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862F6AB3267C83F100C17C2B /* MywebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		862F6AA7267C82E600C17C2B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		862F6AAA267C82E600C17C2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		862F6AAC267C82E600C17C2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		862F6AB3267C83F100C17C2B /* MywebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MywebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				862F6A9E267C82E500C17C2B /* AppDelegate.swift */,
 				862F6AA0267C82E500C17C2B /* SceneDelegate.swift */,
 				862F6AA2267C82E500C17C2B /* ContentView.swift */,
+				862F6AB3267C83F100C17C2B /* MywebView.swift */,
 				862F6AA4267C82E600C17C2B /* Assets.xcassets */,
 				862F6AA9267C82E600C17C2B /* LaunchScreen.storyboard */,
 				862F6AAC267C82E600C17C2B /* Info.plist */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				862F6A9F267C82E500C17C2B /* AppDelegate.swift in Sources */,
+				862F6AB4267C83F100C17C2B /* MywebView.swift in Sources */,
 				862F6AA1267C82E500C17C2B /* SceneDelegate.swift in Sources */,
 				862F6AA3267C82E500C17C2B /* ContentView.swift in Sources */,
 			);
